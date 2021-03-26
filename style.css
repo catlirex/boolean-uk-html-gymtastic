@@ -66,17 +66,18 @@ h1 {
 .nav-bar span {
   padding-right: 40px;
 }
-div.testimonial-page {
+.testimonial-page {
   padding: 20px;
 }
 div.testimonial {
   display: table-cell;
   width: 20%;
+  padding: 20px;
+  margin: 20px;
+
   border: 1px solid gray;
   border-radius: 10px;
-  padding: 20px;
   box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
-  margin: 5px;
 }
 .testimonial b {
   font-size: 20px;
