@@ -4,16 +4,16 @@ body {
   margin: 0;
   box-sizing: border-box;
 }
-.footer {
+footer {
   background-color: #367ba6;
   color: white;
   padding: 20px 30px;
 }
-.footer p,
-.footer h3 {
+footer p,
+footer h3 {
   margin: 0;
 }
-.footer p {
+footer p {
   padding-left: 20px;
 }
 .follow-us b {
