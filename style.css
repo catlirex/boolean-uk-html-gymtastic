@@ -53,6 +53,12 @@ h1 {
   padding: 30px 0px;
   color: white;
 }
+.nav-bar a:link {
+  color: white;
+}
+.nav-bar a:visited {
+  color: white;
+}
 .nav-bar b {
   font-size: 30px;
   padding: 30px;
